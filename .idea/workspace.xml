@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1774cafd-2f8c-40aa-b335-ad13b166549e" name="Changes" comment="cant get filewriter to write">
+    <list default="true" id="1774cafd-2f8c-40aa-b335-ad13b166549e" name="Changes" comment="file writer is writing need to refresh to see changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poem.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654637438169</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="file writer is writing need to refresh to see changes">
+      <created>1654637859804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654637859804</updated>
+    </task>
+    <task id="LOCAL-00003" summary="file writer is writing need to refresh to see changes">
+      <created>1654637938221</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654637938221</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cant get filewriter to write" />
-    <option name="LAST_COMMIT_MESSAGE" value="cant get filewriter to write" />
+    <MESSAGE value="file writer is writing need to refresh to see changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="file writer is writing need to refresh to see changes" />
   </component>
 </project>
